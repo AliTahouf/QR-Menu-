@@ -1,5 +1,6 @@
 # QR-Menu-
 Local QR Menu Restaurant
+<br>
 Developed QR Menu website combining HTML, CSS, JavaScript, and PHP using WordPress
 <br>
 Adding Restaurant info including name, address, number, logo, opening hours and many other info
