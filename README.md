@@ -1,7 +1,7 @@
 # QR-Menu-
 Local QR Menu Restaurant
 <br>
-Link To The Website : https://pucciasaida.gravitymenu.site/
+Link To The Website : https://gravitymenu.site/
 <br>
 Developed QR Menu website combining HTML, CSS, JavaScript, and PHP using WordPress
 <br>
